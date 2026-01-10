@@ -10,4 +10,6 @@ def test_secret():
 
 def test_client():
     client = make_client("OPENAI_API_KEY")
-    print(client)
+    model_name = "gpt-4.1-nano-2025-04-14"
+    prompt = "Hello!"
+    print(get_response(client, model_name, prompt))

@@ -21,3 +21,10 @@ def make_client_from_secret(secret: Secret) -> OpenAI:
 def make_client(env_var_name: str) -> OpenAI:
     secret = load_secrets(env_var_name)
     return make_client_from_secret(secret)
+
+
+def get_response(client: OpenAI, model_name: str, prompt: str):
+
+    resp = client.responses.create(model=model_name, input=prompt)
+
+    return resp
