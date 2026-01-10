@@ -1,0 +1,242 @@
+[
+  {
+    "raw_record": {
+      "company_name": "MP MATERIALS CORP",
+      "category_name": "Comunicado ao Mercado",
+      "record_type": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "species": "<spanOrder>4</spanOrder> - ",
+      "reference_date": "<spanOrder>20260110</spanOrder> 10/01/2026",
+      "delivery_date": "<spanOrder>20260110</spanOrder> 10/01/2026 00:01",
+      "status": "Ativo",
+      "v": 1,
+      "modality": "AP",
+      "document_download_action": "<i class='fi-page-search' id='VisualizarDocumento' style='font-size: 18px;cursor:pointer;color:#0C7766;'  onclick=OpenPopUpVer('frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1466095') title='Visualizar o Documento'> </i><i class='fi-download' style='font-size: 18px;cursor:pointer;color:#0C7766;' title='Download' onclick=OpenDownloadDocumentos('990801','1','1466095','IPE')> </i><i class='fi-info' style='font-size: 18px;cursor:pointer;color:#696969;' title='Documento não possui local de publicação.'> </i><i class='fi-clipboard-notes' style='font-size: 18px;cursor:pointer;color:#0C7766;' title='Exibir Protocolo de Entrega' onclick='exibirProtocoloPDF(990801, \"IPE\")'</i>"
+    },
+    "document_request": {
+      "Tela": "ext",
+      "numSequencia": 990801,
+      "numVersao": 1,
+      "numProtocolo": 1466095,
+      "descTipo": "IPE",
+      "CodigoInstituicao": 1
+    },
+    "file_path": "/tmp/tmp.WMPNqTEXVj/ext-1-1466095-IPE-1.pdf",
+    "text": "São Paulo, 10 de Janeiro de 2026.\n\nO Banco B3 S.A., na qualidade de depositário e emissor do programa de BDR Nível I Não Patrocinado da\nempresa MP Materials Corp, vem por meio da presente nota comunicar que encontra-se à disposição\nno(s) link(s) abaixo, informações sobre a companhia.\n\n4\nhttps://www.sec.gov/Archives/edgar/data/1801368/000183174626000003/0001831746-26-000003-index.htm\n\nBanco B3 S.A. - Gerência de Escrituração e Emissão\n\n\f"
+  },
+  {
+    "raw_record": {
+      "company_name": "JEFFERIES FINANCIAL GROUP INC",
+      "category_name": "Comunicado ao Mercado",
+      "record_type": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "species": "<spanOrder>4</spanOrder> - ",
+      "reference_date": "<spanOrder>20260110</spanOrder> 10/01/2026",
+      "delivery_date": "<spanOrder>20260110</spanOrder> 10/01/2026 00:01",
+      "status": "Ativo",
+      "v": 1,
+      "modality": "AP",
+      "document_download_action": "<i class='fi-page-search' id='VisualizarDocumento' style='font-size: 18px;cursor:pointer;color:#0C7766;'  onclick=OpenPopUpVer('frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1466094') title='Visualizar o Documento'> </i><i class='fi-download' style='font-size: 18px;cursor:pointer;color:#0C7766;' title='Download' onclick=OpenDownloadDocumentos('990800','1','1466094','IPE')> </i><i class='fi-info' style='font-size: 18px;cursor:pointer;color:#696969;' title='Documento não possui local de publicação.'> </i><i class='fi-clipboard-notes' style='font-size: 18px;cursor:pointer;color:#0C7766;' title='Exibir Protocolo de Entrega' onclick='exibirProtocoloPDF(990800, \"IPE\")'</i>"
+    },
+    "document_request": {
+      "Tela": "ext",
+      "numSequencia": 990800,
+      "numVersao": 1,
+      "numProtocolo": 1466094,
+      "descTipo": "IPE",
+      "CodigoInstituicao": 1
+    },
+    "file_path": "/tmp/tmp.WMPNqTEXVj/ext-1-1466094-IPE-1.pdf",
+    "text": "São Paulo, 10 de Janeiro de 2026.\n\nO Banco B3 S.A., na qualidade de depositário e emissor do programa de BDR Nível I Não Patrocinado da\nempresa Jefferies Financial Group Inc, vem por meio da presente nota comunicar que encontra-se à\ndisposição no(s) link(s) abaixo, informações sobre a companhia.\n\n4\nhttps://www.sec.gov/Archives/edgar/data/96223/000121465926000333/0001214659-26-000333-index.htm\n\nBanco B3 S.A. - Gerência de Escrituração e Emissão\n\n\f"
+  },
+  {
+    "raw_record": {
+      "company_name": "GLOBAL X COPPER MINERS ETF",
+      "category_name": "Comunicado ao Mercado",
+      "record_type": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "species": "<spanOrder>N-CSR</spanOrder> - ",
+      "reference_date": "<spanOrder>20260110</spanOrder> 10/01/2026",
+      "delivery_date": "<spanOrder>20260110</spanOrder> 10/01/2026 04:01",
+      "status": "Ativo",
+      "v": 1,
+      "modality": "AP",
+      "document_download_action": "<i class='fi-page-search' id='VisualizarDocumento' style='font-size: 18px;cursor:pointer;color:#0C7766;'  onclick=OpenPopUpVer('frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1466097') title='Visualizar o Documento'> </i><i class='fi-download' style='font-size: 18px;cursor:pointer;color:#0C7766;' title='Download' onclick=OpenDownloadDocumentos('990803','1','1466097','IPE')> </i><i class='fi-info' style='font-size: 18px;cursor:pointer;color:#696969;' title='Documento não possui local de publicação.'> </i><i class='fi-clipboard-notes' style='font-size: 18px;cursor:pointer;color:#0C7766;' title='Exibir Protocolo de Entrega' onclick='exibirProtocoloPDF(990803, \"IPE\")'</i>"
+    },
+    "document_request": {
+      "Tela": "ext",
+      "numSequencia": 990803,
+      "numVersao": 1,
+      "numProtocolo": 1466097,
+      "descTipo": "IPE",
+      "CodigoInstituicao": 1
+    },
+    "file_path": "/tmp/tmp.WMPNqTEXVj/ext-1-1466097-IPE-1.pdf",
+    "text": "COMUNICADO A MERCADO\nPUBLICAÇÃO DE NOVO DOCUMENTO DO ETF\n\nO Banco B3 S.A., na qualidade de depositário e emissor do(s) Programa(s) de BDR de ETF listado(s)\nabaixo, vem por meio da presente nota comunicar a publicação do N-CSR.\n\nGlobal X Silver Miners ETF\nhttps://www.sec.gov/Archives/edgar/data/1432353/000093041326000079/0000930413-26-000079-index.htm\n\nGlobal X Copper Miners ETF\nhttps://www.sec.gov/Archives/edgar/data/1432353/000093041326000079/0000930413-26-000079-index.htm\n\nGlobal X SuperDividend US ETF\nhttps://www.sec.gov/Archives/edgar/data/1432353/000093041326000077/0000930413-26-000077-index.htm\n\nGlobal X MSCI China Consumer Discretionary ETF\nhttps://www.sec.gov/Archives/edgar/data/1432353/000093041326000080/0000930413-26-000080-index.htm\n\nGlobal X Uranium ETF\nhttps://www.sec.gov/Archives/edgar/data/1432353/000093041326000079/0000930413-26-000079-index.htm\n\nGlobal X Social Media ETF\nhttps://www.sec.gov/Archives/edgar/data/1432353/000093041326000077/0000930413-26-000077-index.htm\n\nGlobal X SuperDividend REIT ETF\nhttps://www.sec.gov/Archives/edgar/data/1432353/000093041326000077/0000930413-26-000077-index.htm\n\nGlobal X S&P 500 Catholic Values ETF\nhttps://www.sec.gov/Archives/edgar/data/1432353/000093041326000077/0000930413-26-000077-index.htm\n\nGlobal X Russell 2000 ETF\nhttps://www.sec.gov/Archives/edgar/data/1432353/000093041326000077/0000930413-26-000077-index.htm\n\nMaiores informações sobre o(s) programa(s) de BDR de ETF supracitado(s) podem ser consultadas\natravés do site do Banco B3 descrito abaixo.\nhttps://www.bancob3.com.br/bdr-de-etf/\n\nBanco B3 S.A. - Gerência de Escrituração e Emissão\n\nINFORMAÇÃO PÚBLICA - PUBLIC INFORMATION\n\n\fSão Paulo, 10 de Janeiro de 2026.\n\nBanco B3 S.A. - Gerência de Escrituração e Emissão\n\nINFORMAÇÃO PÚBLICA - PUBLIC INFORMATION\n\n\f"
+  },
+  {
+    "raw_record": {
+      "company_name": "GLOBAL X SILVER MINERS ETF",
+      "category_name": "Comunicado ao Mercado",
+      "record_type": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "species": "<spanOrder>N-CSR</spanOrder> - ",
+      "reference_date": "<spanOrder>20260110</spanOrder> 10/01/2026",
+      "delivery_date": "<spanOrder>20260110</spanOrder> 10/01/2026 04:01",
+      "status": "Ativo",
+      "v": 1,
+      "modality": "AP",
+      "document_download_action": "<i class='fi-page-search' id='VisualizarDocumento' style='font-size: 18px;cursor:pointer;color:#0C7766;'  onclick=OpenPopUpVer('frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1466096') title='Visualizar o Documento'> </i><i class='fi-download' style='font-size: 18px;cursor:pointer;color:#0C7766;' title='Download' onclick=OpenDownloadDocumentos('990802','1','1466096','IPE')> </i><i class='fi-info' style='font-size: 18px;cursor:pointer;color:#696969;' title='Documento não possui local de publicação.'> </i><i class='fi-clipboard-notes' style='font-size: 18px;cursor:pointer;color:#0C7766;' title='Exibir Protocolo de Entrega' onclick='exibirProtocoloPDF(990802, \"IPE\")'</i>"
+    },
+    "document_request": {
+      "Tela": "ext",
+      "numSequencia": 990802,
+      "numVersao": 1,
+      "numProtocolo": 1466096,
+      "descTipo": "IPE",
+      "CodigoInstituicao": 1
+    },
+    "file_path": "/tmp/tmp.WMPNqTEXVj/ext-1-1466096-IPE-1.pdf",
+    "text": "COMUNICADO A MERCADO\nPUBLICAÇÃO DE NOVO DOCUMENTO DO ETF\n\nO Banco B3 S.A., na qualidade de depositário e emissor do(s) Programa(s) de BDR de ETF listado(s)\nabaixo, vem por meio da presente nota comunicar a publicação do N-CSR.\n\nGlobal X Silver Miners ETF\nhttps://www.sec.gov/Archives/edgar/data/1432353/000093041326000079/0000930413-26-000079-index.htm\n\nGlobal X Copper Miners ETF\nhttps://www.sec.gov/Archives/edgar/data/1432353/000093041326000079/0000930413-26-000079-index.htm\n\nGlobal X SuperDividend US ETF\nhttps://www.sec.gov/Archives/edgar/data/1432353/000093041326000077/0000930413-26-000077-index.htm\n\nGlobal X MSCI China Consumer Discretionary ETF\nhttps://www.sec.gov/Archives/edgar/data/1432353/000093041326000080/0000930413-26-000080-index.htm\n\nGlobal X Uranium ETF\nhttps://www.sec.gov/Archives/edgar/data/1432353/000093041326000079/0000930413-26-000079-index.htm\n\nGlobal X Social Media ETF\nhttps://www.sec.gov/Archives/edgar/data/1432353/000093041326000077/0000930413-26-000077-index.htm\n\nGlobal X SuperDividend REIT ETF\nhttps://www.sec.gov/Archives/edgar/data/1432353/000093041326000077/0000930413-26-000077-index.htm\n\nGlobal X S&P 500 Catholic Values ETF\nhttps://www.sec.gov/Archives/edgar/data/1432353/000093041326000077/0000930413-26-000077-index.htm\n\nGlobal X Russell 2000 ETF\nhttps://www.sec.gov/Archives/edgar/data/1432353/000093041326000077/0000930413-26-000077-index.htm\n\nMaiores informações sobre o(s) programa(s) de BDR de ETF supracitado(s) podem ser consultadas\natravés do site do Banco B3 descrito abaixo.\nhttps://www.bancob3.com.br/bdr-de-etf/\n\nBanco B3 S.A. - Gerência de Escrituração e Emissão\n\nINFORMAÇÃO PÚBLICA - PUBLIC INFORMATION\n\n\fSão Paulo, 10 de Janeiro de 2026.\n\nBanco B3 S.A. - Gerência de Escrituração e Emissão\n\nINFORMAÇÃO PÚBLICA - PUBLIC INFORMATION\n\n\f"
+  },
+  {
+    "raw_record": {
+      "company_name": "GLOBAL X SUPERDIVIDEND US ETF",
+      "category_name": "Comunicado ao Mercado",
+      "record_type": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "species": "<spanOrder>N-CSR</spanOrder> - ",
+      "reference_date": "<spanOrder>20260110</spanOrder> 10/01/2026",
+      "delivery_date": "<spanOrder>20260110</spanOrder> 10/01/2026 04:01",
+      "status": "Ativo",
+      "v": 1,
+      "modality": "AP",
+      "document_download_action": "<i class='fi-page-search' id='VisualizarDocumento' style='font-size: 18px;cursor:pointer;color:#0C7766;'  onclick=OpenPopUpVer('frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1466098') title='Visualizar o Documento'> </i><i class='fi-download' style='font-size: 18px;cursor:pointer;color:#0C7766;' title='Download' onclick=OpenDownloadDocumentos('990804','1','1466098','IPE')> </i><i class='fi-info' style='font-size: 18px;cursor:pointer;color:#696969;' title='Documento não possui local de publicação.'> </i><i class='fi-clipboard-notes' style='font-size: 18px;cursor:pointer;color:#0C7766;' title='Exibir Protocolo de Entrega' onclick='exibirProtocoloPDF(990804, \"IPE\")'</i>"
+    },
+    "document_request": {
+      "Tela": "ext",
+      "numSequencia": 990804,
+      "numVersao": 1,
+      "numProtocolo": 1466098,
+      "descTipo": "IPE",
+      "CodigoInstituicao": 1
+    },
+    "file_path": "/tmp/tmp.WMPNqTEXVj/ext-1-1466098-IPE-1.pdf",
+    "text": "COMUNICADO A MERCADO\nPUBLICAÇÃO DE NOVO DOCUMENTO DO ETF\n\nO Banco B3 S.A., na qualidade de depositário e emissor do(s) Programa(s) de BDR de ETF listado(s)\nabaixo, vem por meio da presente nota comunicar a publicação do N-CSR.\n\nGlobal X Silver Miners ETF\nhttps://www.sec.gov/Archives/edgar/data/1432353/000093041326000079/0000930413-26-000079-index.htm\n\nGlobal X Copper Miners ETF\nhttps://www.sec.gov/Archives/edgar/data/1432353/000093041326000079/0000930413-26-000079-index.htm\n\nGlobal X SuperDividend US ETF\nhttps://www.sec.gov/Archives/edgar/data/1432353/000093041326000077/0000930413-26-000077-index.htm\n\nGlobal X MSCI China Consumer Discretionary ETF\nhttps://www.sec.gov/Archives/edgar/data/1432353/000093041326000080/0000930413-26-000080-index.htm\n\nGlobal X Uranium ETF\nhttps://www.sec.gov/Archives/edgar/data/1432353/000093041326000079/0000930413-26-000079-index.htm\n\nGlobal X Social Media ETF\nhttps://www.sec.gov/Archives/edgar/data/1432353/000093041326000077/0000930413-26-000077-index.htm\n\nGlobal X SuperDividend REIT ETF\nhttps://www.sec.gov/Archives/edgar/data/1432353/000093041326000077/0000930413-26-000077-index.htm\n\nGlobal X S&P 500 Catholic Values ETF\nhttps://www.sec.gov/Archives/edgar/data/1432353/000093041326000077/0000930413-26-000077-index.htm\n\nGlobal X Russell 2000 ETF\nhttps://www.sec.gov/Archives/edgar/data/1432353/000093041326000077/0000930413-26-000077-index.htm\n\nMaiores informações sobre o(s) programa(s) de BDR de ETF supracitado(s) podem ser consultadas\natravés do site do Banco B3 descrito abaixo.\nhttps://www.bancob3.com.br/bdr-de-etf/\n\nBanco B3 S.A. - Gerência de Escrituração e Emissão\n\nINFORMAÇÃO PÚBLICA - PUBLIC INFORMATION\n\n\fSão Paulo, 10 de Janeiro de 2026.\n\nBanco B3 S.A. - Gerência de Escrituração e Emissão\n\nINFORMAÇÃO PÚBLICA - PUBLIC INFORMATION\n\n\f"
+  },
+  {
+    "raw_record": {
+      "company_name": "GLOBAL X URANIUM ETF",
+      "category_name": "Comunicado ao Mercado",
+      "record_type": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "species": "<spanOrder>N-CSR</spanOrder> - ",
+      "reference_date": "<spanOrder>20260110</spanOrder> 10/01/2026",
+      "delivery_date": "<spanOrder>20260110</spanOrder> 10/01/2026 04:01",
+      "status": "Ativo",
+      "v": 1,
+      "modality": "AP",
+      "document_download_action": "<i class='fi-page-search' id='VisualizarDocumento' style='font-size: 18px;cursor:pointer;color:#0C7766;'  onclick=OpenPopUpVer('frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1466100') title='Visualizar o Documento'> </i><i class='fi-download' style='font-size: 18px;cursor:pointer;color:#0C7766;' title='Download' onclick=OpenDownloadDocumentos('990806','1','1466100','IPE')> </i><i class='fi-info' style='font-size: 18px;cursor:pointer;color:#696969;' title='Documento não possui local de publicação.'> </i><i class='fi-clipboard-notes' style='font-size: 18px;cursor:pointer;color:#0C7766;' title='Exibir Protocolo de Entrega' onclick='exibirProtocoloPDF(990806, \"IPE\")'</i>"
+    },
+    "document_request": {
+      "Tela": "ext",
+      "numSequencia": 990806,
+      "numVersao": 1,
+      "numProtocolo": 1466100,
+      "descTipo": "IPE",
+      "CodigoInstituicao": 1
+    },
+    "file_path": "/tmp/tmp.WMPNqTEXVj/ext-1-1466100-IPE-1.pdf",
+    "text": "COMUNICADO A MERCADO\nPUBLICAÇÃO DE NOVO DOCUMENTO DO ETF\n\nO Banco B3 S.A., na qualidade de depositário e emissor do(s) Programa(s) de BDR de ETF listado(s)\nabaixo, vem por meio da presente nota comunicar a publicação do N-CSR.\n\nGlobal X Silver Miners ETF\nhttps://www.sec.gov/Archives/edgar/data/1432353/000093041326000079/0000930413-26-000079-index.htm\n\nGlobal X Copper Miners ETF\nhttps://www.sec.gov/Archives/edgar/data/1432353/000093041326000079/0000930413-26-000079-index.htm\n\nGlobal X SuperDividend US ETF\nhttps://www.sec.gov/Archives/edgar/data/1432353/000093041326000077/0000930413-26-000077-index.htm\n\nGlobal X MSCI China Consumer Discretionary ETF\nhttps://www.sec.gov/Archives/edgar/data/1432353/000093041326000080/0000930413-26-000080-index.htm\n\nGlobal X Uranium ETF\nhttps://www.sec.gov/Archives/edgar/data/1432353/000093041326000079/0000930413-26-000079-index.htm\n\nGlobal X Social Media ETF\nhttps://www.sec.gov/Archives/edgar/data/1432353/000093041326000077/0000930413-26-000077-index.htm\n\nGlobal X SuperDividend REIT ETF\nhttps://www.sec.gov/Archives/edgar/data/1432353/000093041326000077/0000930413-26-000077-index.htm\n\nGlobal X S&P 500 Catholic Values ETF\nhttps://www.sec.gov/Archives/edgar/data/1432353/000093041326000077/0000930413-26-000077-index.htm\n\nGlobal X Russell 2000 ETF\nhttps://www.sec.gov/Archives/edgar/data/1432353/000093041326000077/0000930413-26-000077-index.htm\n\nMaiores informações sobre o(s) programa(s) de BDR de ETF supracitado(s) podem ser consultadas\natravés do site do Banco B3 descrito abaixo.\nhttps://www.bancob3.com.br/bdr-de-etf/\n\nBanco B3 S.A. - Gerência de Escrituração e Emissão\n\nINFORMAÇÃO PÚBLICA - PUBLIC INFORMATION\n\n\fSão Paulo, 10 de Janeiro de 2026.\n\nBanco B3 S.A. - Gerência de Escrituração e Emissão\n\nINFORMAÇÃO PÚBLICA - PUBLIC INFORMATION\n\n\f"
+  },
+  {
+    "raw_record": {
+      "company_name": "GLOBAL X MSCI CHINA CONSUMER DISCRETIONARY ETF",
+      "category_name": "Comunicado ao Mercado",
+      "record_type": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "species": "<spanOrder>N-CSR</spanOrder> - ",
+      "reference_date": "<spanOrder>20260110</spanOrder> 10/01/2026",
+      "delivery_date": "<spanOrder>20260110</spanOrder> 10/01/2026 04:01",
+      "status": "Ativo",
+      "v": 1,
+      "modality": "AP",
+      "document_download_action": "<i class='fi-page-search' id='VisualizarDocumento' style='font-size: 18px;cursor:pointer;color:#0C7766;'  onclick=OpenPopUpVer('frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1466099') title='Visualizar o Documento'> </i><i class='fi-download' style='font-size: 18px;cursor:pointer;color:#0C7766;' title='Download' onclick=OpenDownloadDocumentos('990805','1','1466099','IPE')> </i><i class='fi-info' style='font-size: 18px;cursor:pointer;color:#696969;' title='Documento não possui local de publicação.'> </i><i class='fi-clipboard-notes' style='font-size: 18px;cursor:pointer;color:#0C7766;' title='Exibir Protocolo de Entrega' onclick='exibirProtocoloPDF(990805, \"IPE\")'</i>"
+    },
+    "document_request": {
+      "Tela": "ext",
+      "numSequencia": 990805,
+      "numVersao": 1,
+      "numProtocolo": 1466099,
+      "descTipo": "IPE",
+      "CodigoInstituicao": 1
+    },
+    "file_path": "/tmp/tmp.WMPNqTEXVj/ext-1-1466099-IPE-1.pdf",
+    "text": "COMUNICADO A MERCADO\nPUBLICAÇÃO DE NOVO DOCUMENTO DO ETF\n\nO Banco B3 S.A., na qualidade de depositário e emissor do(s) Programa(s) de BDR de ETF listado(s)\nabaixo, vem por meio da presente nota comunicar a publicação do N-CSR.\n\nGlobal X Silver Miners ETF\nhttps://www.sec.gov/Archives/edgar/data/1432353/000093041326000079/0000930413-26-000079-index.htm\n\nGlobal X Copper Miners ETF\nhttps://www.sec.gov/Archives/edgar/data/1432353/000093041326000079/0000930413-26-000079-index.htm\n\nGlobal X SuperDividend US ETF\nhttps://www.sec.gov/Archives/edgar/data/1432353/000093041326000077/0000930413-26-000077-index.htm\n\nGlobal X MSCI China Consumer Discretionary ETF\nhttps://www.sec.gov/Archives/edgar/data/1432353/000093041326000080/0000930413-26-000080-index.htm\n\nGlobal X Uranium ETF\nhttps://www.sec.gov/Archives/edgar/data/1432353/000093041326000079/0000930413-26-000079-index.htm\n\nGlobal X Social Media ETF\nhttps://www.sec.gov/Archives/edgar/data/1432353/000093041326000077/0000930413-26-000077-index.htm\n\nGlobal X SuperDividend REIT ETF\nhttps://www.sec.gov/Archives/edgar/data/1432353/000093041326000077/0000930413-26-000077-index.htm\n\nGlobal X S&P 500 Catholic Values ETF\nhttps://www.sec.gov/Archives/edgar/data/1432353/000093041326000077/0000930413-26-000077-index.htm\n\nGlobal X Russell 2000 ETF\nhttps://www.sec.gov/Archives/edgar/data/1432353/000093041326000077/0000930413-26-000077-index.htm\n\nMaiores informações sobre o(s) programa(s) de BDR de ETF supracitado(s) podem ser consultadas\natravés do site do Banco B3 descrito abaixo.\nhttps://www.bancob3.com.br/bdr-de-etf/\n\nBanco B3 S.A. - Gerência de Escrituração e Emissão\n\nINFORMAÇÃO PÚBLICA - PUBLIC INFORMATION\n\n\fSão Paulo, 10 de Janeiro de 2026.\n\nBanco B3 S.A. - Gerência de Escrituração e Emissão\n\nINFORMAÇÃO PÚBLICA - PUBLIC INFORMATION\n\n\f"
+  },
+  {
+    "raw_record": {
+      "company_name": "GLOBAL X SUPERDIVIDEND REIT ETF",
+      "category_name": "Comunicado ao Mercado",
+      "record_type": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "species": "<spanOrder>N-CSR</spanOrder> - ",
+      "reference_date": "<spanOrder>20260110</spanOrder> 10/01/2026",
+      "delivery_date": "<spanOrder>20260110</spanOrder> 10/01/2026 04:02",
+      "status": "Ativo",
+      "v": 1,
+      "modality": "AP",
+      "document_download_action": "<i class='fi-page-search' id='VisualizarDocumento' style='font-size: 18px;cursor:pointer;color:#0C7766;'  onclick=OpenPopUpVer('frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1466102') title='Visualizar o Documento'> </i><i class='fi-download' style='font-size: 18px;cursor:pointer;color:#0C7766;' title='Download' onclick=OpenDownloadDocumentos('990808','1','1466102','IPE')> </i><i class='fi-info' style='font-size: 18px;cursor:pointer;color:#696969;' title='Documento não possui local de publicação.'> </i><i class='fi-clipboard-notes' style='font-size: 18px;cursor:pointer;color:#0C7766;' title='Exibir Protocolo de Entrega' onclick='exibirProtocoloPDF(990808, \"IPE\")'</i>"
+    },
+    "document_request": {
+      "Tela": "ext",
+      "numSequencia": 990808,
+      "numVersao": 1,
+      "numProtocolo": 1466102,
+      "descTipo": "IPE",
+      "CodigoInstituicao": 1
+    },
+    "file_path": "/tmp/tmp.WMPNqTEXVj/ext-1-1466102-IPE-1.pdf",
+    "text": "COMUNICADO A MERCADO\nPUBLICAÇÃO DE NOVO DOCUMENTO DO ETF\n\nO Banco B3 S.A., na qualidade de depositário e emissor do(s) Programa(s) de BDR de ETF listado(s)\nabaixo, vem por meio da presente nota comunicar a publicação do N-CSR.\n\nGlobal X Silver Miners ETF\nhttps://www.sec.gov/Archives/edgar/data/1432353/000093041326000079/0000930413-26-000079-index.htm\n\nGlobal X Copper Miners ETF\nhttps://www.sec.gov/Archives/edgar/data/1432353/000093041326000079/0000930413-26-000079-index.htm\n\nGlobal X SuperDividend US ETF\nhttps://www.sec.gov/Archives/edgar/data/1432353/000093041326000077/0000930413-26-000077-index.htm\n\nGlobal X MSCI China Consumer Discretionary ETF\nhttps://www.sec.gov/Archives/edgar/data/1432353/000093041326000080/0000930413-26-000080-index.htm\n\nGlobal X Uranium ETF\nhttps://www.sec.gov/Archives/edgar/data/1432353/000093041326000079/0000930413-26-000079-index.htm\n\nGlobal X Social Media ETF\nhttps://www.sec.gov/Archives/edgar/data/1432353/000093041326000077/0000930413-26-000077-index.htm\n\nGlobal X SuperDividend REIT ETF\nhttps://www.sec.gov/Archives/edgar/data/1432353/000093041326000077/0000930413-26-000077-index.htm\n\nGlobal X S&P 500 Catholic Values ETF\nhttps://www.sec.gov/Archives/edgar/data/1432353/000093041326000077/0000930413-26-000077-index.htm\n\nGlobal X Russell 2000 ETF\nhttps://www.sec.gov/Archives/edgar/data/1432353/000093041326000077/0000930413-26-000077-index.htm\n\nMaiores informações sobre o(s) programa(s) de BDR de ETF supracitado(s) podem ser consultadas\natravés do site do Banco B3 descrito abaixo.\nhttps://www.bancob3.com.br/bdr-de-etf/\n\nBanco B3 S.A. - Gerência de Escrituração e Emissão\n\nINFORMAÇÃO PÚBLICA - PUBLIC INFORMATION\n\n\fSão Paulo, 10 de Janeiro de 2026.\n\nBanco B3 S.A. - Gerência de Escrituração e Emissão\n\nINFORMAÇÃO PÚBLICA - PUBLIC INFORMATION\n\n\f"
+  },
+  {
+    "raw_record": {
+      "company_name": "GLOBAL X SOCIAL MEDIA ETF",
+      "category_name": "Comunicado ao Mercado",
+      "record_type": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "species": "<spanOrder>N-CSR</spanOrder> - ",
+      "reference_date": "<spanOrder>20260110</spanOrder> 10/01/2026",
+      "delivery_date": "<spanOrder>20260110</spanOrder> 10/01/2026 04:01",
+      "status": "Ativo",
+      "v": 1,
+      "modality": "AP",
+      "document_download_action": "<i class='fi-page-search' id='VisualizarDocumento' style='font-size: 18px;cursor:pointer;color:#0C7766;'  onclick=OpenPopUpVer('frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1466101') title='Visualizar o Documento'> </i><i class='fi-download' style='font-size: 18px;cursor:pointer;color:#0C7766;' title='Download' onclick=OpenDownloadDocumentos('990807','1','1466101','IPE')> </i><i class='fi-info' style='font-size: 18px;cursor:pointer;color:#696969;' title='Documento não possui local de publicação.'> </i><i class='fi-clipboard-notes' style='font-size: 18px;cursor:pointer;color:#0C7766;' title='Exibir Protocolo de Entrega' onclick='exibirProtocoloPDF(990807, \"IPE\")'</i>"
+    },
+    "document_request": {
+      "Tela": "ext",
+      "numSequencia": 990807,
+      "numVersao": 1,
+      "numProtocolo": 1466101,
+      "descTipo": "IPE",
+      "CodigoInstituicao": 1
+    },
+    "file_path": "/tmp/tmp.WMPNqTEXVj/ext-1-1466101-IPE-1.pdf",
+    "text": "COMUNICADO A MERCADO\nPUBLICAÇÃO DE NOVO DOCUMENTO DO ETF\n\nO Banco B3 S.A., na qualidade de depositário e emissor do(s) Programa(s) de BDR de ETF listado(s)\nabaixo, vem por meio da presente nota comunicar a publicação do N-CSR.\n\nGlobal X Silver Miners ETF\nhttps://www.sec.gov/Archives/edgar/data/1432353/000093041326000079/0000930413-26-000079-index.htm\n\nGlobal X Copper Miners ETF\nhttps://www.sec.gov/Archives/edgar/data/1432353/000093041326000079/0000930413-26-000079-index.htm\n\nGlobal X SuperDividend US ETF\nhttps://www.sec.gov/Archives/edgar/data/1432353/000093041326000077/0000930413-26-000077-index.htm\n\nGlobal X MSCI China Consumer Discretionary ETF\nhttps://www.sec.gov/Archives/edgar/data/1432353/000093041326000080/0000930413-26-000080-index.htm\n\nGlobal X Uranium ETF\nhttps://www.sec.gov/Archives/edgar/data/1432353/000093041326000079/0000930413-26-000079-index.htm\n\nGlobal X Social Media ETF\nhttps://www.sec.gov/Archives/edgar/data/1432353/000093041326000077/0000930413-26-000077-index.htm\n\nGlobal X SuperDividend REIT ETF\nhttps://www.sec.gov/Archives/edgar/data/1432353/000093041326000077/0000930413-26-000077-index.htm\n\nGlobal X S&P 500 Catholic Values ETF\nhttps://www.sec.gov/Archives/edgar/data/1432353/000093041326000077/0000930413-26-000077-index.htm\n\nGlobal X Russell 2000 ETF\nhttps://www.sec.gov/Archives/edgar/data/1432353/000093041326000077/0000930413-26-000077-index.htm\n\nMaiores informações sobre o(s) programa(s) de BDR de ETF supracitado(s) podem ser consultadas\natravés do site do Banco B3 descrito abaixo.\nhttps://www.bancob3.com.br/bdr-de-etf/\n\nBanco B3 S.A. - Gerência de Escrituração e Emissão\n\nINFORMAÇÃO PÚBLICA - PUBLIC INFORMATION\n\n\fSão Paulo, 10 de Janeiro de 2026.\n\nBanco B3 S.A. - Gerência de Escrituração e Emissão\n\nINFORMAÇÃO PÚBLICA - PUBLIC INFORMATION\n\n\f"
+  },
+  {
+    "raw_record": {
+      "company_name": "GLOBAL X RUSSELL 2000 ETF",
+      "category_name": "Comunicado ao Mercado",
+      "record_type": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "species": "<spanOrder>N-CSR</spanOrder> - ",
+      "reference_date": "<spanOrder>20260110</spanOrder> 10/01/2026",
+      "delivery_date": "<spanOrder>20260110</spanOrder> 10/01/2026 04:02",
+      "status": "Ativo",
+      "v": 1,
+      "modality": "AP",
+      "document_download_action": "<i class='fi-page-search' id='VisualizarDocumento' style='font-size: 18px;cursor:pointer;color:#0C7766;'  onclick=OpenPopUpVer('frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1466104') title='Visualizar o Documento'> </i><i class='fi-download' style='font-size: 18px;cursor:pointer;color:#0C7766;' title='Download' onclick=OpenDownloadDocumentos('990810','1','1466104','IPE')> </i><i class='fi-info' style='font-size: 18px;cursor:pointer;color:#696969;' title='Documento não possui local de publicação.'> </i><i class='fi-clipboard-notes' style='font-size: 18px;cursor:pointer;color:#0C7766;' title='Exibir Protocolo de Entrega' onclick='exibirProtocoloPDF(990810, \"IPE\")'</i>"
+    },
+    "document_request": {
+      "Tela": "ext",
+      "numSequencia": 990810,
+      "numVersao": 1,
+      "numProtocolo": 1466104,
+      "descTipo": "IPE",
+      "CodigoInstituicao": 1
+    },
+    "file_path": "/tmp/tmp.WMPNqTEXVj/ext-1-1466104-IPE-1.pdf",
+    "text": "COMUNICADO A MERCADO\nPUBLICAÇÃO DE NOVO DOCUMENTO DO ETF\n\nO Banco B3 S.A., na qualidade de depositário e emissor do(s) Programa(s) de BDR de ETF listado(s)\nabaixo, vem por meio da presente nota comunicar a publicação do N-CSR.\n\nGlobal X Silver Miners ETF\nhttps://www.sec.gov/Archives/edgar/data/1432353/000093041326000079/0000930413-26-000079-index.htm\n\nGlobal X Copper Miners ETF\nhttps://www.sec.gov/Archives/edgar/data/1432353/000093041326000079/0000930413-26-000079-index.htm\n\nGlobal X SuperDividend US ETF\nhttps://www.sec.gov/Archives/edgar/data/1432353/000093041326000077/0000930413-26-000077-index.htm\n\nGlobal X MSCI China Consumer Discretionary ETF\nhttps://www.sec.gov/Archives/edgar/data/1432353/000093041326000080/0000930413-26-000080-index.htm\n\nGlobal X Uranium ETF\nhttps://www.sec.gov/Archives/edgar/data/1432353/000093041326000079/0000930413-26-000079-index.htm\n\nGlobal X Social Media ETF\nhttps://www.sec.gov/Archives/edgar/data/1432353/000093041326000077/0000930413-26-000077-index.htm\n\nGlobal X SuperDividend REIT ETF\nhttps://www.sec.gov/Archives/edgar/data/1432353/000093041326000077/0000930413-26-000077-index.htm\n\nGlobal X S&P 500 Catholic Values ETF\nhttps://www.sec.gov/Archives/edgar/data/1432353/000093041326000077/0000930413-26-000077-index.htm\n\nGlobal X Russell 2000 ETF\nhttps://www.sec.gov/Archives/edgar/data/1432353/000093041326000077/0000930413-26-000077-index.htm\n\nMaiores informações sobre o(s) programa(s) de BDR de ETF supracitado(s) podem ser consultadas\natravés do site do Banco B3 descrito abaixo.\nhttps://www.bancob3.com.br/bdr-de-etf/\n\nBanco B3 S.A. - Gerência de Escrituração e Emissão\n\nINFORMAÇÃO PÚBLICA - PUBLIC INFORMATION\n\n\fSão Paulo, 10 de Janeiro de 2026.\n\nBanco B3 S.A. - Gerência de Escrituração e Emissão\n\nINFORMAÇÃO PÚBLICA - PUBLIC INFORMATION\n\n\f"
+  }
+]
