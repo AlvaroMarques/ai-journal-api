@@ -1,0 +1,23 @@
+{
+  "id": "resp_test_123",
+  "object": "response",
+  "model": "gpt-4.1-nano-2025-04-14",
+  "output": [
+    {
+      "id": "msg_test_456",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "output_text",
+          "text": "Hello, world!"
+        }
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 5,
+    "output_tokens": 3,
+    "total_tokens": 8
+  }
+}
