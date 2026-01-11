@@ -14,6 +14,12 @@ def load_secrets(env_var_name: str) -> Secret:
     return Secret(api_key)
 
 
+def load_model_name(env_var_name) -> str:
+    load_dotenv()
+
+    return os.getenv(env_var_name)
+
+
 def make_client_from_secret(secret: Secret) -> OpenAI:
     return OpenAI(api_key=secret.get())
 
